@@ -17,7 +17,7 @@ public class Main{          //Programa utiliza apenas a classe principal
 		double larg_ter;    //variável do tipo double para a largura do terreno
 		double comp_ter;    //variável do tipo double para o comprimento do terreno
 		double val_mqua;    //variável do tipo double para o valor do metro quadrado
-		double area_ter;
+		double area_ter;    //variável do tipo double para a area do terreno
 		double preco_ter;
 		
         System.out.print("Digite a largura do terreno: ");
