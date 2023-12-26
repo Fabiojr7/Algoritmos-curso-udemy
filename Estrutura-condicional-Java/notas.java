@@ -22,9 +22,9 @@ public class notas
 	    nota2=sc.nextDouble();
 	    nota_final=nota1+nota2;
 	    
-	    System.out.print("NOTA FINAL = " + nota_final);
+	    System.out.println("NOTA FINAL = " + nota_final);
 	    if(nota_final<60.00){
-	        System.out.print("REPROVADO");
+	        System.out.println("REPROVADO");
 	    }
 	    
 	    sc.close();
